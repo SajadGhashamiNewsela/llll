@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@ed87949.us-east-1.snowflakecomputing.com" uuid="7b50c994-4477-4713-8720-1feb02457aa0">
+      <driver-ref>snowflake</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.snowflake.client.jdbc.SnowflakeDriver</jdbc-driver>
+      <jdbc-url>jdbc:snowflake://ed87949.us-east-1.snowflakecomputing.com/?role=DEVELOPER_ROLE&amp;database=analytics&amp;warehouse=INTEGRATE_LARGE_TEST</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
